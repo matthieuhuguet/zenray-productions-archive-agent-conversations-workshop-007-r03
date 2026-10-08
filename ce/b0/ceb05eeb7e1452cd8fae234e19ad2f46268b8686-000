@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e4e8a-ab27-7190-85e6-76576bcb8313",
+  "sessionId": "019e4e8a-ab27-7190-85e6-76576bcb8313",
+  "provider": "codex",
+  "title": "Clone depuis github /Users/zenray/Create/Build/Memory le dossier memory https://github.com/matthieuhuguet/Memory.git ici /Users/zenray/Creat",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T09-16-11-019e4e8a-ab27-7190-85e6-76576bcb8313.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T09-16-11-019e4e8a-ab27-7190-85e6-76576bcb8313.jsonl",
+      "relativePath": "conversations/codex/2fa581d5eba195e4/359d6cfbeb11e399.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-22T07:16:11.243Z",
+  "stagedAt": "2026-10-04T09:36:56.213Z"
+}
